@@ -2,3 +2,8 @@
 *.xml
 *.mf
 *.properties
+/ServerTest/build/
+/ServerTest/dist/
+/ClientTest/nbproject/private/
+/ClientTest/dist/
+/ClientTest/build/
